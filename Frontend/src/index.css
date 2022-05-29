@@ -1,0 +1,16 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: x-large;
+    background-image: linear-gradient(rgb(8, 153, 8),rgb(255, 255, 255));
+
+
+}
+
+select, input, button{
+    font-size: large;
+}
+
+
